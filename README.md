@@ -1,6 +1,6 @@
 # input-type-radio
 
-
+```css
 .search-institution-input-radio[type="radio"] {
   transform: scale(1.5);
   position: relative;
@@ -37,3 +37,4 @@
   background-color: #2F36BF;
   visibility: visible;
 }
+```
